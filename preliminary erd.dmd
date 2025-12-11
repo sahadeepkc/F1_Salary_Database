@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="preliminary erd" id="892663DC-7199-28F8-2610-4D8EA39827C4" version="3.5">
+<createdBy>sahadeepk.c</createdBy>
+<createdTime>2025-11-02 03:58:18 UTC</createdTime>
+<ownerDesignName>preliminary erd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>892663DC-7199-28F8-2610-4D8EA39827C4</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="9292BE99-8236-A9CC-2785-9788882A7D52">
+<designStoragePath>/</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="949F2E1E-81A4-2306-B8BC-1B81B4800568">
+<designStoragePath>/Users/sahadeepk.c/Desktop/BIA-4530</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
